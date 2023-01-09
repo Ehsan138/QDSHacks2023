@@ -1,1 +1,1 @@
-# QDSHacks2023
+# QDSHackathon
